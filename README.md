@@ -1,0 +1,1 @@
+# aa12-sequelize-scope
